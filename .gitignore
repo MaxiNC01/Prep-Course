@@ -5,4 +5,8 @@ package-lock.json
 # Eleventy
 _dist
 _cache
+<<<<<<< HEAD
 /_src/localStyles
+=======
+/_src/localStyles
+>>>>>>> 8074eecdf556ab5e1471f59e9b0f4c1a22d2c660
